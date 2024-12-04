@@ -1,6 +1,6 @@
 {
   "cesVersion": "2.12.1",
-  "projectName": "oscar-repo",
+  "projectName": "expo-router-repo",
   "packages": [
     {
       "name": "expo-router",
